@@ -1,22 +1,13 @@
 # AHMAD-REPOSITORY
-## 👋 About Me
 
-Hi! I'm a **1st Semester Computer Applications student at Aligarh Muslim University (AMU)**, passionate about learning technology, programming, and software development.
+This repository was enhanced by GitHub Copilot to add a small portable C project layout.
 
-🎓 **Education:** Computer Applications — 1st Semester, AMU  
-💻 **Interests:** Programming, Web Development, Software & Technology  
-🌱 **Currently Learning:** Programming fundamentals, Git & GitHub, and computer applications  
-🚀 **Goal:** To build strong technical skills and develop useful real-world projects.
+Layout added:
+- src/ (C sources)
+- include/ (C headers)
+- examples/ (how to run)
+- tests/ (simple test harness)
+- Makefile
+- .github/workflows/ci.yml
 
-I use this GitHub profile to share my learning journey, academic projects, experiments, and programming practice.
-
-### 🛠️ Skills I'm Building
-
-- Programming Fundamentals
-- Git & GitHub
-- MS Office & Google Workspace
-- Problem Solving
-- Web Development
-- Computer Fundamentals
-
-> **"Learning today, building tomorrow."**
+I'll continue improving the project in subsequent commits (build, CI, refactor, style, tests, docs).
